@@ -39,6 +39,7 @@ Everyday Functioning Prompts:
  
   “How is encryption used in daily life when sending WhatsApp messages?”
 
-  OUTPUT:
+  OUTPUT:[Ex 4 prompt.docx](https://github.com/user-attachments/files/28293512/Ex.4.prompt.docx)
 
-  RESULT:
+
+  RESULT:Thus, prompts for Comparative Analysis Prompt, Experiential Perspective Prompt, and Everyday Functioning Prompt were successfully created for different scenarios and use cases. The experiment helped in understanding how different prompt patterns can be used to obtain comparative information, user experiences, and practical applications in real-world situations
